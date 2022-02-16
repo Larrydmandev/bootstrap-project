@@ -1,0 +1,224 @@
+*
+{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    /* display: inline-block; */
+    overflow-x: hidden;
+}
+
+.nav-div .nav-ul .nav-item a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-div .nav-ul .nav-item a:hover
+{
+    color: greenyellow;
+}
+
+.b-div button
+{
+    height: 65px; 
+    width: 150px;
+}
+
+.b-div .butn
+{
+    background-color: greenyellow !important;
+}
+
+.b-div
+{
+    padding-top: 230px;
+    padding-left: 10%;
+
+}
+.h-div 
+{
+    padding-top: 100px;
+    margin-left: 10%;
+}
+
+.h-div h1
+{
+    font-size: 500%;
+}
+
+.template-section .icon-position{
+    background-color: greenyellow;
+    height: 70px;
+    width: 70px; 
+    position: relative;
+    border-radius: 50px;
+}
+
+.template-section .icon-position i{
+    position: absolute;
+    /* right: 0.1px; */
+    left: 10px;
+    top: 10px;
+}
+
+.ul-items
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.main .ul-items li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.sub-div
+{
+    padding-right: 10%;
+    width: 50%;
+}
+
+.main-h3
+{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.food-sec
+{
+    padding-top: 10%;
+    padding-right: 20%;
+}
+
+.food-div
+{
+    padding-top: 10%;
+    padding-left: 10%;
+    width: 50%;
+}
+
+.real-div
+{
+    padding-top: 10%;
+    padding-right: 5%;
+    width: 45%;  
+}
+
+.video-sec
+{
+    padding-top: 10%;
+    padding-right: 20%;
+}
+
+.video-div
+{
+    padding-left: 10%;
+}
+
+.but-div
+{
+    padding-top: 10%;
+    padding-left: 25%;
+}
+
+.but-div button
+{
+    
+    height: 100px;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 1px;
+}
+.but-div2
+{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 20%;
+    text-align: center;
+    justify-content: center;
+}
+
+.but-h3
+{
+    padding-top: 5%;
+    padding-left: 35%;
+}
+
+
+
+.div-img1
+{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+
+}
+
+.overall-img-div
+{
+    padding-left: 100px;
+}
+
+
+.workers-section .icon-position{
+    background-color: greenyellow;
+    height: 30px;
+    width: 30px; 
+    position: relative;
+    border-radius: 50px;
+}
+
+.workers-section .icon-position i{
+    position: absolute;
+    /* right: 0.1px; */
+    left: 10px;
+    top: 8px;
+}
+
+.con-h4
+{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.con-p p
+{
+    text-align: center;
+    padding-top: 3%;
+}
+
+
+.foot-sec .foot-position{
+    background-color: gray;
+    height: 35px;
+    width: 35px; 
+    position: relative;
+    border-radius: 50px;
+}
+
+.foot-sec .foot-position i{
+    position: absolute;
+    /* right: 0.1px; */
+    left: 10px;
+    top: 8px;
+}
+
+
+.ic-sec .ic-pos{
+    background-color: greenyellow;
+    height: 30px;
+    width: 30px; 
+    position: relative;
+    border-radius: 50px;
+}
+
+.ic-sec .ic-pos i{
+    position: absolute;
+    /* right: 0.1px; */
+    left: 10px;
+    top: 8px;
+    /* margin-left: 3%; */
+}
